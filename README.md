@@ -1,4 +1,4 @@
-#CLICKY GAME
+# Clicky_Game
 
 This app uses Yarn and React.js to keep track of users who click the pictures of different birds. 
 
