@@ -1,0 +1,13 @@
+.wrapper {
+  margin-bottom: 50px;
+  background-color: blue;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 100px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  margin-left: 50px;
+  margin-right: 50px;
+}
